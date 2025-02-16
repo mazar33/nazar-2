@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мій вебсайт</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        main {
+            margin-top: 20px;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            margin-top: 20px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ласкаво просимо на мій сайт!</h1>
+    </header>
+    <main>
+        <p>Це простий вебсайт, який ви можете зробити публічним на GitHub Pages.</p>
+        <p>Щоб опублікувати сайт:</p>
+        <ol>
+            <li>Створи репозиторій на GitHub.</li>
+            <li>Завантаж цей файл у репозиторій.</li>
+            <li>Перейди у налаштування репозиторію та увімкни GitHub Pages.</li>
+            <li>Обери гілку (зазвичай <code>main</code> або <code>master</code>).</li>
+            <li>Отримай посилання на свій сайт!</li>
+        </ol>
+    </main>
+    <footer>
+        <p>&copy; 2025 Мій вебсайт</p>
+    </footer>
+</body>
+</html>
